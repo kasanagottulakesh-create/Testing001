@@ -1,0 +1,60 @@
+09:35:47.945 INFO  testCases.Tc001_userRegistration - starting testing 
+09:35:48.351 INFO  testCases.Tc001_userRegistration - clicked on myaccount
+09:35:48.852 INFO  testCases.Tc001_userRegistration - clicked on register
+09:35:51.256 INFO  testCases.Tc001_userRegistration - clicked on continue button
+09:35:51.415 INFO  testCases.Tc001_userRegistration - ending testing
+16:03:21.174 INFO  testCases.Tc001_userRegistration - starting testing 
+16:03:22.293 INFO  testCases.Tc001_userRegistration - clicked on myaccount
+16:03:22.889 INFO  testCases.Tc001_userRegistration - clicked on register
+16:03:25.315 INFO  testCases.Tc001_userRegistration - clicked on continue button
+16:03:26.156 INFO  testCases.Tc001_userRegistration - ending testing
+16:07:58.609 INFO  testCases.Tc001_userRegistration - starting testing 
+16:07:59.215 INFO  testCases.Tc001_userRegistration - starting testing 
+16:07:59.513 INFO  testCases.Tc001_userRegistration - clicked on myaccount
+16:07:59.627 INFO  testCases.Tc001_userRegistration - clicked on myaccount
+16:08:00.560 INFO  testCases.Tc001_userRegistration - clicked on register
+16:08:00.626 INFO  testCases.Tc001_userRegistration - clicked on register
+16:08:05.571 INFO  testCases.Tc001_userRegistration - clicked on continue button
+16:08:05.584 INFO  testCases.Tc001_userRegistration - clicked on continue button
+16:08:05.658 INFO  testCases.Tc001_userRegistration - ending testing
+16:08:05.658 INFO  testCases.Tc001_userRegistration - ending testing
+16:48:39.557 INFO  testCases.Tc001_userRegistration - starting testing 
+16:48:40.129 INFO  testCases.Tc001_userRegistration - clicked on myaccount
+16:48:40.724 INFO  testCases.Tc001_userRegistration - clicked on register
+16:48:43.187 INFO  testCases.Tc001_userRegistration - clicked on continue button
+16:48:43.260 INFO  testCases.Tc001_userRegistration - ending testing
+17:04:38.866 INFO  testCases.Tc001_userRegistration - starting testing 
+17:04:39.126 INFO  testCases.Tc001_userRegistration - clicked on myaccount
+17:04:39.865 INFO  testCases.Tc001_userRegistration - clicked on register
+17:04:42.150 INFO  testCases.Tc001_userRegistration - clicked on continue button
+17:04:42.236 INFO  testCases.Tc001_userRegistration - ending testing
+14:23:48.560 INFO  testCases.Tc001_userRegistration - starting testing 
+14:23:50.279 INFO  testCases.Tc001_userRegistration - clicked on myaccount
+14:23:50.909 INFO  testCases.Tc001_userRegistration - clicked on register
+14:23:53.540 INFO  testCases.Tc001_userRegistration - clicked on continue button
+14:23:53.629 INFO  testCases.Tc001_userRegistration - ending testing
+14:40:14.520 INFO  testCases.Tc001_userRegistration - starting testing 
+14:40:15.145 INFO  testCases.Tc001_userRegistration - clicked on myaccount
+14:40:15.846 INFO  testCases.Tc001_userRegistration - clicked on register
+14:40:20.140 INFO  testCases.Tc001_userRegistration - clicked on continue button
+14:40:20.382 INFO  testCases.Tc001_userRegistration - ending testing
+14:41:23.084 INFO  testCases.Tc001_userRegistration - starting testing 
+14:41:23.380 INFO  testCases.Tc001_userRegistration - clicked on myaccount
+14:41:23.947 INFO  testCases.Tc001_userRegistration - clicked on register
+14:41:26.847 INFO  testCases.Tc001_userRegistration - clicked on continue button
+14:41:26.946 INFO  testCases.Tc001_userRegistration - ending testing
+21:00:44.586 INFO  testCases.Tc001_userRegistration - starting testing 
+21:00:44.946 INFO  testCases.Tc001_userRegistration - clicked on myaccount
+21:00:45.492 INFO  testCases.Tc001_userRegistration - clicked on register
+21:00:48.269 INFO  testCases.Tc001_userRegistration - clicked on continue button
+21:00:48.468 INFO  testCases.Tc001_userRegistration - ending testing
+21:01:21.810 INFO  testCases.Tc001_userRegistration - starting testing 
+21:01:22.058 INFO  testCases.Tc001_userRegistration - clicked on myaccount
+21:01:22.599 INFO  testCases.Tc001_userRegistration - clicked on register
+21:01:25.431 INFO  testCases.Tc001_userRegistration - clicked on continue button
+21:01:25.516 INFO  testCases.Tc001_userRegistration - ending testing
+21:15:41.798 INFO  testCases.Tc001_userRegistration - starting testing 
+21:15:42.060 INFO  testCases.Tc001_userRegistration - clicked on myaccount
+21:15:42.726 INFO  testCases.Tc001_userRegistration - clicked on register
+21:15:45.865 INFO  testCases.Tc001_userRegistration - clicked on continue button
+21:15:45.946 INFO  testCases.Tc001_userRegistration - ending testing
